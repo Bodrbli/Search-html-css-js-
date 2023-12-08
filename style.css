@@ -1,0 +1,32 @@
+#inpButt {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+#posters {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: brown;
+}
+button {
+    width: 90px;
+}
+h2 {
+    font-size: x-large;
+}
+p {
+    font-size: larger;
+}
+div#result {
+    margin: 20px;
+}
